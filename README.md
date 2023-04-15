@@ -1,3 +1,3 @@
 # Visualization-methods 
 
-Visualization methods learned on Data Science training 
+This repository contains Visualization methods learned on Data Science training 
